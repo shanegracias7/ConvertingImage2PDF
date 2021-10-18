@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertingImage2PDF", "conv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "converteImage2PDFusingAPi", "converteImage2PDFusingAPi\converteImage2PDFusingAPi.csproj", "{57B1776B-91EB-4C00-8EB5-5FC5D86F7BB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addHrightWidth", "addHrightWidth\addHrightWidth.csproj", "{9EA4ABE3-3765-4968-89BE-4B586706CACA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{57B1776B-91EB-4C00-8EB5-5FC5D86F7BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57B1776B-91EB-4C00-8EB5-5FC5D86F7BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57B1776B-91EB-4C00-8EB5-5FC5D86F7BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA4ABE3-3765-4968-89BE-4B586706CACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA4ABE3-3765-4968-89BE-4B586706CACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA4ABE3-3765-4968-89BE-4B586706CACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA4ABE3-3765-4968-89BE-4B586706CACA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
